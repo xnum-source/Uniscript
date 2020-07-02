@@ -1,0 +1,13 @@
+C:\Users\Liam!\Desktop\Uniscript CLI\bin\Debug\netcoreapp3.1\Uniscript CLI.exe
+C:\Users\Liam!\Desktop\Uniscript CLI\bin\Debug\netcoreapp3.1\Uniscript CLI.deps.json
+C:\Users\Liam!\Desktop\Uniscript CLI\bin\Debug\netcoreapp3.1\Uniscript CLI.runtimeconfig.json
+C:\Users\Liam!\Desktop\Uniscript CLI\bin\Debug\netcoreapp3.1\Uniscript CLI.runtimeconfig.dev.json
+C:\Users\Liam!\Desktop\Uniscript CLI\bin\Debug\netcoreapp3.1\Uniscript CLI.dll
+C:\Users\Liam!\Desktop\Uniscript CLI\bin\Debug\netcoreapp3.1\Uniscript CLI.pdb
+C:\Users\Liam!\Desktop\Uniscript CLI\obj\Debug\netcoreapp3.1\Uniscript CLI.csprojAssemblyReference.cache
+C:\Users\Liam!\Desktop\Uniscript CLI\obj\Debug\netcoreapp3.1\Uniscript CLI.AssemblyInfoInputs.cache
+C:\Users\Liam!\Desktop\Uniscript CLI\obj\Debug\netcoreapp3.1\Uniscript CLI.AssemblyInfo.cs
+C:\Users\Liam!\Desktop\Uniscript CLI\obj\Debug\netcoreapp3.1\Uniscript CLI.csproj.CoreCompileInputs.cache
+C:\Users\Liam!\Desktop\Uniscript CLI\obj\Debug\netcoreapp3.1\Uniscript CLI.dll
+C:\Users\Liam!\Desktop\Uniscript CLI\obj\Debug\netcoreapp3.1\Uniscript CLI.pdb
+C:\Users\Liam!\Desktop\Uniscript CLI\obj\Debug\netcoreapp3.1\Uniscript CLI.genruntimeconfig.cache

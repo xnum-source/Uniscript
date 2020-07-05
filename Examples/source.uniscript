@@ -1,0 +1,21 @@
+using System;
+using System.Writing;
+using System.Drawing
+using System.IO;
+using UniEnviro.Engine;
+using System.Databasing;
+
+Application.Run(new.Instance(// Your App Name //))
+Application.Name = // Your App Name //
+
+class Program 
+{
+    public partial class Application 
+   {
+        static void main(string[] args)
+        { 
+            console.println("Hello World");
+        }
+   }
+    
+}

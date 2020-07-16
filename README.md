@@ -1,2 +1,2 @@
-# uniscript
+# Uniscript
 Official Repository for Uniscript 

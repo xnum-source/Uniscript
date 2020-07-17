@@ -19,9 +19,9 @@ Handy Links:
 
 <a href="https://www.uniscript.xyzdesk.online">Website</a>
 
-<a href="https://www.docs.xyzdesk.online">Book</a>
+<a href="http://www.docs.xyzdesk.online">Book</a>
 
-<a href="https://www.uniscript.fandom.com">Fandom</a>
+<a href="https://uniscript.fandom.com/wiki/Uniscript_Wiki">Fandom</a>
 
 
 

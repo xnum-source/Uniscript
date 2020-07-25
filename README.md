@@ -11,8 +11,9 @@ Uniscript is an <a href="https://en.wikipedia.org/wiki/Object-oriented_programmi
 <h3>How do I learn Uniscript?</h3>
 Research using our <a href="docs.xyzdesk.online">Book</a> or our <a href="uniscript.fandom.com">Fandom</a>. You can also use the forums on the Xyzdesk website!
 
-</br>
+
 ***
+
 <p>Handy Links:</p>
 
 <a href="http://xyzdeskorg.github.io/webuni">Github Website</a>

@@ -3,7 +3,7 @@
 [![Versions](https://img.shields.io/static/v1?label=Version&message=3.9.18.8&color=%3CCOLOR%3E)](https://github.com/xyzdeskorg/uniscript/blob/master/VERSION)
 
 
-# Information
+<h1>Information</h1>
 
 <h3>What is Uniscript?</h3>
 Uniscript is an <a href="https://en.wikipedia.org/wiki/Object-oriented_programming">object-oriented</a> flexible language used to create cross-platform apps. Uniscript was based off of C, C++, C#, Lua, and JavaScript.
@@ -11,8 +11,8 @@ Uniscript is an <a href="https://en.wikipedia.org/wiki/Object-oriented_programmi
 <h3>How do I learn Uniscript?</h3>
 Research using our <a href="docs.xyzdesk.online">Book</a> or our <a href="uniscript.fandom.com">Fandom</a>. You can also use the forums on the Xyzdesk website!
 
-
-Handy Links:
+</br>
+<p>Handy Links:</p>
 
 <a href="http://xyzdeskorg.github.io/webuni">Github Website</a>
 

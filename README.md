@@ -15,11 +15,11 @@ Research using our <a href="docs.xyzdesk.online">Book</a> or our <a href="uniscr
 
 Handy Links:
 
-<a href="https://www.xyzdeskorg.github.io/webuni">Github Website</a>
+<a href="http://xyzdeskorg.github.io/webuni">Github Website</a>
 
-<a href="https://www.uniscript.xyzdesk.online">Website</a>
+<a href="https://uniscript.xyzdesk.online">Website</a>
 
-<a href="http://www.docs.xyzdesk.online">Book</a>
+<a href="https://docs.xyzdesk.online">Book</a>
 
 <a href="https://uniscript.fandom.com/wiki/Uniscript_Wiki">Fandom</a>
 
